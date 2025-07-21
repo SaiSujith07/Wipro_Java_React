@@ -2,4 +2,7 @@ Pizza
 Burger
 Pani Puri
 Noodles
+Gobi Manchurian
+
+Bajji
 Pasta
