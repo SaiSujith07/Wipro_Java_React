@@ -3,3 +3,5 @@ Burger
 Pani Puri
 Noodles
 Pasta
+Gobi Manchurian
+Bhel Puri
